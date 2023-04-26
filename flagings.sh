@@ -56,3 +56,6 @@ Flagings ()
     
     :;
 } ;
+
+: \
+Flagings "$@" ;
