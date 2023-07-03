@@ -4,7 +4,7 @@
 🪁 many very useful functions make your shell works have more elegant (make it more fp-like) 🎊
 ~~~~
 
-**🪀 Moved into [*fp.sh*](../../../fp.sh) 🪀**
+**🐌 Moved into [*fp.sh*](../../../fp.sh) 🐌**
 
 ----
 
